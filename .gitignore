@@ -1,4 +1,5 @@
 LoveClickerAPI/appsettings.json
 LoveClickerAPI/appsettings.Development.json
 LoveClickerAPI/Persistence/Database/*
+LoveClickerAPI/Persistence/Migrations/*
 
