@@ -1,4 +1,7 @@
 LoveClickerAPI/appsettings.json
 LoveClickerAPI/appsettings.Development.json
 LoveClickerAPI/Persistence/Database/LoveClicker_dev.db
+LoveClickerAPI/Persistence/Database/LoveClicker_dev.db
+LoveClickerAPI/Persistence/Database/LoveClicker_dev.db-shm
+LoveClickerAPI/Persistence/Database/LoveClicker_dev.db-wal
 
