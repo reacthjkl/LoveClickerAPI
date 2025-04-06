@@ -1,0 +1,7 @@
+/Users/shquers/Desktop/LoveClickerAPI/LoveClickerAPI/obj/Debug/net9.0/LoveClickerAPI.csproj.AssemblyReference.cache
+/Users/shquers/Desktop/LoveClickerAPI/LoveClickerAPI/obj/Debug/net9.0/LoveClickerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shquers/Desktop/LoveClickerAPI/LoveClickerAPI/obj/Debug/net9.0/LoveClickerAPI.AssemblyInfoInputs.cache
+/Users/shquers/Desktop/LoveClickerAPI/LoveClickerAPI/obj/Debug/net9.0/LoveClickerAPI.AssemblyInfo.cs
+/Users/shquers/Desktop/LoveClickerAPI/LoveClickerAPI/obj/Debug/net9.0/LoveClickerAPI.csproj.CoreCompileInputs.cache
+/Users/shquers/Desktop/LoveClickerAPI/LoveClickerAPI/obj/Debug/net9.0/LoveClickerAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/shquers/Desktop/LoveClickerAPI/LoveClickerAPI/obj/Debug/net9.0/LoveClickerAPI.MvcApplicationPartsAssemblyInfo.cache
